@@ -63,3 +63,7 @@ def numbers():
 
 print(numbers())
 
+
+
+
+'there is something called binary search that helps yoy identify the square root of a number without using math.sqrt()'

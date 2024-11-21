@@ -2,7 +2,7 @@
 
 st=set()
 
-
+'use .add to add things to a set'
 #we can join sets using the union() or update() method
 
 # fruits={'banana','orange','lemon','mango'}
